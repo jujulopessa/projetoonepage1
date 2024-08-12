@@ -1,0 +1,28 @@
+*{
+    width:auto;
+    height:auto;
+    background-color: #ffffff12;
+}
+header, h1{
+text-align: center;
+}
+.noticia{
+    text-align: center;
+
+}
+body{
+    width: 80%;
+    height: 80%;
+    background-color: white;
+}
+header{
+    background-color: black;
+    
+}
+.formaçao{
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    width: 10%;
+    height: 10%;
+}
